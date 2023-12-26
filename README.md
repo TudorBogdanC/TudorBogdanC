@@ -1,13 +1,19 @@
-Hi 👋 My name is Tudor
+const aboutMe = {
+   name: "Tudor",
+   pronouns: "he" | "him",
+   location: "Padua" | "Northern Italy",
+   hobbies: ["photography", "DnD", "languages"],
+   code: ["Javascript", "HTML", "CSS"],
+   technologies: {
+      frontEnd: {
+         js: ["React"],
+         css: ["Bootstrap"]
+      }
+   },
+};
 
-I am a Front-End Developer 
 
-Here is where the milestones of my learning journey, as in personal projects, as well as future work related projects, will be displayed. Nerd at the core, with an interest in videogames, roleplaying tabletop games like DnD, photography and Tardises. Allons-y !!  
-
-🌍  I'm based in Italy, Padova
 ✉️  You can contact me at [toriatteteo@gmail.com](mailto:toriatteteo@gmail.com) 
-
-⚡  Passionate about photography, roleplaying games, video games and foreign languages
 
  Skills  
 

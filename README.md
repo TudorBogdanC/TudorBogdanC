@@ -4,8 +4,7 @@ I am a Front-End Developer
 
 Here will be displayed the milestones of my learning journey, as in personal projects, as well as future work related projects. Nerd at the core, with an interest in videogames, roleplaying tabletop games like DnD, photography and Tardises. Allons-y !!
 
-🌍  I'm based in Italy, Padova ✉️  You can contact me at toriatteteo@gmail.com
-
+🌍  I'm based in Italy, Padova 
 ⚡  Passionate about photography, roleplaying games, video games and foreign languages
 
 
